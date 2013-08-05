@@ -1,0 +1,256 @@
+body {
+	text-decoration: none;
+ 	font-family: Arial;
+ }
+
+#main-header {
+	border: 1px solid blue;
+	background: #3399cc;
+	text-align: left;
+	width: 100%;
+}
+
+#main-header table {
+	width: 100%;
+}
+
+#main-logo {
+	border: 1px solid white;
+	width: 5px;
+}
+
+#main-logo a {
+	text-decoration: none;
+	color: white;
+}
+
+#main-title {
+	//border: 1px solid white;
+	width: 400px;
+}
+
+#main-title a {
+	color: black;
+	font-weight: bold;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+#session-name {
+	//border: 1px solid white;
+	width: 200px;
+	font-size: 12px;
+	text-align: right;
+	font-style: italic;
+	font-weight: bold;
+}
+
+#main-post-category {
+	//border: 1px solid white;
+	width: 500px;
+	font-size: 12px;
+	text-align: right;
+}
+
+#main-post-category a {
+	text-decoration: none;
+	font-size: 12px;
+}
+
+#main-login {
+	//border: 1px solid white;
+	width: 75px;
+	text-align: right;
+}
+
+#main-login a {
+	text-decoration: none;
+	font-size: 12px;
+}
+
+.wrapper {
+	width: 1000px;
+	margin: auto;
+}
+
+#promoTitle {
+	width: 600px;
+	height: 80px;
+	font-size: 35px;
+	text-align: center;
+	margin: auto;
+}
+
+#promoTitleShort {
+	width: 750px;
+	text-align: center;
+	margin: auto;
+}
+
+#login-form {
+	border: 1px solid lightgrey;
+	background: whitesmoke;
+	width: 320px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#login-form-inner {
+	width: 270px;
+	margin: 25px;
+}
+
+#account-form {
+	border: 1px solid lightgrey;
+	background: whitesmoke;
+	width: 320px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#account-form-inner {
+	width: 270px;
+	margin: 25px;
+}
+
+#post-form {
+	border: 1px solid lightgrey;
+	background: whitesmoke;
+	width: 600px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#post-form-inner {
+	width: 270px;
+	margin: 25px;
+}
+
+#comment-form {
+	border: 1px solid lightgrey;
+	background: whitesmoke;
+}
+
+
+#comment-form-inner {
+	width: 270px;
+	margin: 25px;
+}
+
+
+textarea {
+	width: 540px;
+	height: 200px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.field {
+	font-size: 13px;
+	font-weight: bold;
+}
+
+#login-form a {
+	font-size: 16px;
+}
+
+#account-form a {
+	font-size: 16px;
+}
+
+#post-form a {
+	font-size: 16px;
+}
+
+span input {
+	width: 260px;
+	height: 25px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+input {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+#login-form button {
+	width: 50px;
+	height: 30px;
+	background: #0266C8;
+	border-color: lightblue;
+	color: white;
+}
+
+#account-form button {
+	width: 50px;
+	height: 30px;
+	background: #0266C8;
+	border-color: lightblue;
+	color: white;
+}
+
+#post-form button {
+	width: 50px;
+	height: 30px;
+	background: #0266C8;
+	border-color: lightblue;
+	color: white;
+}
+
+#comment-form button {
+	width: 50px;
+	height: 30px;
+	background: #0266C8;
+	border-color: lightblue;
+	color: white;
+}
+
+#submit { 
+	width: 50px;
+	height: 30px;
+	background: #0266C8;
+	border-color: lightblue;
+	color: white;
+	
+}
+
+.output {
+	border: 1px solid lightgray;
+	background: whitesmoke;
+	width: 100%;
+	font-size: 12px;
+}
+
+.output a {
+	text-decoration: none;
+}
+
+.post-title {
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.post-category-link {
+	font-size: 12px;
+}
+
+#open-comments {
+	border: 1px solid lightgray;
+	font-size: 12px;
+}
+
+#open-comments a {
+	text-decoration: none;	
+}
+
+.pagination {
+	border: 1px solid lightgray;
+	background: whitesmoke;
+	width: 100%;
+	font-size: 14px;
+	display: inline;
+}
